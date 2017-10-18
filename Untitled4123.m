@@ -1,0 +1,1 @@
+[x, fval] = fminsearch(@(X) finaltask(X), [1 1 1])

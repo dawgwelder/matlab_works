@@ -1,0 +1,1 @@
+createmat(6);
